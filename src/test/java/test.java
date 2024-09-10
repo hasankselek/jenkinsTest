@@ -10,7 +10,7 @@ public class test {
     }
     @Test
     void Test2(){
-        assertTrue(true);
+        assertTrue(false);
     }
     @Test
     void Test3(){
