@@ -34,7 +34,7 @@ public class test {
     }
     @Test
     void Test8(){
-        assertTrue(true);
+        assertTrue(false);
     }
     @Test
     void Test9(){
@@ -61,6 +61,6 @@ public class test {
 
     @Test
     void Test14(){
-        assertTrue(true);
+        assertTrue(false);
     }
 }
