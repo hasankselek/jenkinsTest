@@ -26,11 +26,11 @@ public class test {
     }
     @Test
     void Test6(){
-        assertTrue(true);
+        assertTrue(false);
     }
     @Test
     void Test7(){
-        assertTrue(true);
+        assertTrue(false);
     }
     @Test
     void Test8(){
@@ -51,16 +51,16 @@ public class test {
 
     @Test
     void Test12(){
-        assertTrue(true);
+        assertTrue(false);
     }
 
     @Test
     void Test13(){
-        assertTrue(true);
+        assertTrue(false);
     }
 
     @Test
     void Test14(){
-        assertTrue(true);
+        assertTrue(false);
     }
 }
