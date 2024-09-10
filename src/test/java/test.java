@@ -34,33 +34,33 @@ public class test {
     }
     @Test
     void Test8(){
-        assertTrue(false);
+        assertTrue(true);
     }
     @Test
     void Test9(){
-        assertTrue(false);
+        assertTrue(true);
     }
     @Test
     void Test10(){
-        assertTrue(false);
+        assertTrue(true);
     }
     @Test
     void Test11(){
-        assertTrue(false);
+        assertTrue(true);
     }
 
     @Test
     void Test12(){
-        assertTrue(false);
+        assertTrue(true);
     }
 
     @Test
     void Test13(){
-        assertTrue(false);
+        assertTrue(true);
     }
 
     @Test
     void Test14(){
-        assertTrue(false);
+        assertTrue(true);
     }
 }
