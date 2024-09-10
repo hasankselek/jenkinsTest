@@ -6,7 +6,7 @@ public class test {
 
     @Test
     void Test1(){
-        assertTrue(true);
+        assertTrue(false);
     }
     @Test
     void Test2(){
